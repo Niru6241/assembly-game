@@ -1,4 +1,4 @@
-# My React Game
+# A small React Game
 
 A fun and interactive word guessing game built with React.
 
